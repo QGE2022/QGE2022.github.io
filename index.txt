@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = QIANWEN GE
+QIANWEN GE
 Web developer
 
 Show Contacts
