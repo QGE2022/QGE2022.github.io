@@ -9,13 +9,10 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+qge@wpi.edu
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++1 (206) 372 1596
 
 Location
 Sacramento, California, USA
@@ -25,7 +22,7 @@ Sacramento, California, USA
 About
 Resume
 Portfolio
-Blog
+Project
 Contact
 
 # about
@@ -185,9 +182,9 @@ Web development
 
 
 
-# blog
+# project
 
-Blog
+Project
 
 alt = Design conferences in 2022
 Design
