@@ -8151,3 +8151,18 @@ main {
     transform: rotate3d(0, 1, 0, 104deg); } }
 
 /*# sourceMappingURL=live-resume.css.map */
+main .time-line-item-content {
+  font-size: 12px;
+}
+main .time-line-item .badge {
+  font-size: 10px;
+}
+main .time-line-item .badge {
+  font-size: 14px;
+}
+main .time-line-item .badge {
+  font-size: 12px;
+}
+main .service-card .service-title {
+  font-size: 14px;
+}
